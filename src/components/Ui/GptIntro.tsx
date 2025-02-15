@@ -59,7 +59,7 @@ export default function GptIntro() {
       </div>
       <div className=" h-96 flex items-start justify-center">
         <h1 className=" text-4xl font-bold mt-5 text-center text-gray-300">
-          ChatGPT
+          Convolve AI
         </h1>
       </div>
     </>

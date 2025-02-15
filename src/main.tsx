@@ -5,6 +5,8 @@ import "highlight.js/styles//a11y-dark.min.css";
 import "./assets/css/main.css";
 import "@ionic/react/css/core.css";
 
+document.title = "Convolve AI Chat";
+
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
     <App />
